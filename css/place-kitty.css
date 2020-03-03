@@ -26,7 +26,8 @@
   left: 319px;
 }
 
-/*__write_selector_here__*/ {
+/*__write_selector_here__*/ 
+#ball + img {
   position: absolute;
   z-index: 5;
   top: 291px;
